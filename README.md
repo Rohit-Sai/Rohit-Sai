@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Rohit
 
-<!--
-**Rohit-Sai/Rohit-Sai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Machine Learning Engineer | LLMs • VLMs • Transformers  
+Building scalable AI systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Do
+
+- Build LLM and VLM systems  
+- Fine-tune models using LoRA / Transformers  
+- Design end-to-end ML pipelines  
+- Optimize inference for scalable deployment  
+
+---
+
+## ⚙️ Tech Stack
+
+- Python, PyTorch, Hugging Face  
+- Transformers, NLP, LLMs  
+- LoRA / SFT / Inference pipelines  
+- AWS, Linux, GPU training  
+
+---
+
+## 🔥 Featured Work
+
+- 🍽️ Structured Food Intelligence System (LLM + LoRA)  
+- 🤖 Vision-Language Model for Grocery Robotics  
+- 📊 Figure-Agent (Vision-Language Model for Code Generation)  
+
+---
