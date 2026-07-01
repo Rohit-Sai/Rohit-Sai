@@ -24,8 +24,7 @@
 
 ## 🔥 Featured Work
 
-- 🍽️ Structured Food Intelligence System (LLM + LoRA)  
+- 🍽️ Structured Food Intelligence System
 - 🤖 Vision-Language Model for Grocery Robotics  
-- 📊 Figure-Agent (Vision-Language Model for Code Generation)  
 
 ---
