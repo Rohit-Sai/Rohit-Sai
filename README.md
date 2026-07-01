@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Rohit
 
-🚀 Machine Learning Engineer | LLMs • VLMs • Transformers  
-Building scalable AI systems.
+🚀 Machine Learning Engineer focused on building real-world AI systems | LLMs • VLMs • Transformers  
 
 ---
 
